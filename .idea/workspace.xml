@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="308505f3-6381-4b83-864f-319911f4728a" name="Default Changelist" comment="" />
+    <list default="true" id="308505f3-6381-4b83-864f-319911f4728a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +43,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
+            <state relative-caret-position="259">
               <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
             </state>
           </provider>
@@ -158,8 +160,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="557" />
-    <option name="y" value="118" />
+    <option name="x" value="95" />
+    <option name="y" value="146" />
     <option name="width" value="1440" />
     <option name="height" value="895" />
   </component>
@@ -397,7 +399,7 @@
       <workItem from="1590024351185" duration="2800000" />
       <workItem from="1590113161467" duration="595000" />
       <workItem from="1590117259295" duration="2014000" />
-      <workItem from="1590119323676" duration="804000" />
+      <workItem from="1590119323676" duration="1240000" />
     </task>
     <task id="LOCAL-00001" summary="first2提交">
       <created>1590119464909</created>
@@ -406,11 +408,18 @@
       <option name="project" value="LOCAL" />
       <updated>1590119464909</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first提交">
+      <created>1590120358199</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590120358199</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9603000" />
+    <option name="totallyTimeSpent" value="10039000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -422,7 +431,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="331" y="36" width="1152" height="716" extended-state="0" />
+    <frame x="76" y="118" width="1152" height="716" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30677655" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -459,10 +468,10 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first提交" />
     <MESSAGE value="first1提交" />
     <MESSAGE value="first2提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="first2提交" />
+    <MESSAGE value="first提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="first提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
@@ -594,7 +603,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
+        <state relative-caret-position="259">
           <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
         </state>
       </provider>
